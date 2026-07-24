@@ -2,7 +2,7 @@
 
 ![Last updated](https://img.shields.io/badge/last%20updated-2026--07--24-00d4aa)
 ![Status](https://img.shields.io/badge/status-lean%20launch-1a1a2e)
-![Field-tested](https://img.shields.io/badge/field--tested-yes-f0a500)
+![Practitioner-built](https://img.shields.io/badge/practitioner--built-yes-f0a500)
 ![Licence](https://img.shields.io/badge/licence-CC%20BY%204.0-00d4aa)
 
 The shared engine behind the **AI Adoption Playbooks** — the assessments, surveys, and monitoring and scaling tools that every audience playbook draws on. Instead of each playbook reinventing "how do we measure readiness?", they all point here.
@@ -46,7 +46,7 @@ Then, to place individuals rather than the organisation, use the [stage locator]
 
 ## Where this came from
 
-These instruments are generalised from real delivery — an AI literacy programme rolled out to a marketing agency and a national ministry team, where the assessment, the monitoring, and the scaling model were used with actual staff, not sketched in theory. The compliance-heavy originals stay in the paid pack; what's here is the reusable core, stripped of the audit-trail machinery.
+These instruments are generalised from real programme-building — the AI literacy compliance pack built for small businesses, and a multi-session AI programme designed for a national ministry team. The compliance-heavy originals stay in the paid pack; what's here is the reusable core, stripped of the audit-trail machinery.
 
 ## Free vs done-with-you
 
