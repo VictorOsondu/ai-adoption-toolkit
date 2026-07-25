@@ -1,14 +1,20 @@
 # AI Adoption Readiness Assessment
 
-A self-scored assessment for a team or organisation. It tells you whether you're ready to roll out AI properly — or whether you'd be building on sand.
+A rapid self-scored scan for a team or organisation. It helps surface readiness gaps before an AI rollout.
 
-This is different from the [individual stage locator](https://github.com/VictorOsondu/ai-adoption-model/blob/main/framework/stage-locator.md), which places a *person* on the six-stage model. This one looks at your *organisation's* readiness across the things that actually determine whether adoption sticks.
+This is different from the [individual stage locator](https://github.com/VictorOsondu/ai-adoption-model/blob/main/framework/stage-locator.md), which helps a *person* reflect on their six-stage adoption position. This one looks at organisational readiness across four practical dimensions: direction, guardrails, capability, and follow-through.
+
+Last reviewed: 2026-07-24. See [sources and verification notes](../sources.md).
+
+This is not a validated audit, compliance assessment, certification, or legal review. Treat the score as a prompt for action, not a public rating.
 
 **How to use it:** answer honestly, not aspirationally. Score each statement 0–2. Total at the end and read the band. Twelve statements, five minutes.
 
 - **0** — not true / not in place
 - **1** — partly true / in progress
 - **2** — true and demonstrable
+
+For a printable summary, use the [Readiness Score Sheet](readiness-score-sheet.md).
 
 ---
 
@@ -62,20 +68,35 @@ This is different from the [individual stage locator](https://github.com/VictorO
 
 **Total: ___ / 24**
 
+| Dimension | Score |
+| --- | --- |
+| Direction | ___ / 6 |
+| Guardrails | ___ / 6 |
+| Capability | ___ / 6 |
+| Follow-through | ___ / 6 |
+
 ### 0–8 — Not ready yet, and that's useful to know
 
-You'd be rolling out AI onto no foundation — no direction, no guardrails, or no follow-through. That's not a failing; most organisations start here. The fix isn't a tool. Start with two things: name an accountable person, and write down why you're doing this at all. Everything else builds on those.
+You may be rolling out AI onto weak foundations — unclear direction, weak guardrails, limited capability, or no follow-through. That's useful to know early. The fix isn't a tool. Start with two things: name an accountable person, and write down why you're doing this at all. Everything else builds on those.
 
 ### 9–16 — Ready in patches
 
-You've got some pieces — probably a policy *or* some capability *or* leadership interest, but not all three joined up. This is the most common band, and the risk here is uneven adoption: a few enthusiasts racing ahead while everyone else waits. Find your weakest dimension above and put your next month of effort there, not into the dimension you're already good at.
+You've got some pieces — probably a policy *or* some capability *or* leadership interest, but not all three joined up. The risk here is uneven adoption: a few enthusiasts racing ahead while everyone else waits. Find your weakest dimension above and put your next month of effort there, not into the dimension you're already good at.
 
 ### 17–24 — Ready to scale
 
-You have direction, guardrails, capability, and follow-through. Your job now isn't to start — it's to move people up the stages deliberately (see the [six-stage model](https://github.com/VictorOsondu/ai-adoption-model)) and to make sure the standard holds as you grow. The trap at this level is complacency: strong foundations decay quietly if no one reviews them.
+You appear to have direction, guardrails, capability, and follow-through. Your job now isn't only to start — it's to support people deliberately (see the [six-stage model](https://github.com/VictorOsondu/ai-adoption-model)) and to make sure the standard holds as you grow. The trap at this level is complacency: strong foundations decay quietly if no one reviews them.
 
 ---
 
 > **A note on honesty.** This assessment is only useful if you score what's true, not what you'd like to be true. A score of 8 you believe beats a score of 18 you've talked yourself into — because you'll act on the first and coast on the second.
+
+## What to Do Next
+
+1. Transfer scores to the [Readiness Score Sheet](readiness-score-sheet.md).
+2. Start with the lowest-scoring dimension unless there is a live risk issue.
+3. Use the [30-Day Adoption Action Plan](../templates/30-day-adoption-action-plan.md) for one focused improvement cycle.
+4. If ownership or onboarding is weak, use the [AI Programme Owner Charter](../templates/ai-programme-owner-charter.md) or [AI Onboarding Checklist](../templates/ai-onboarding-checklist.md).
+5. Re-run this assessment after a pilot, major training session, policy update, or incident.
 
 *Part of the [AI Adoption Toolkit](../README.md). Not legal or compliance advice.*

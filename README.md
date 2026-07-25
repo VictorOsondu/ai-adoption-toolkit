@@ -7,7 +7,9 @@
 
 The shared engine behind the **AI Adoption Playbooks** — the assessments, surveys, and monitoring and scaling tools that every audience playbook draws on. Instead of each playbook reinventing "how do we measure readiness?", they all point here.
 
-If the [six-stage model](https://github.com/VictorOsondu/ai-adoption-model) is the *diagnosis*, this toolkit is the *instruments*.
+If the [six-stage model](https://github.com/VictorOsondu/ai-adoption-model) helps people locate their adoption stage, this toolkit provides lightweight operating tools for teams and organisations.
+
+Last reviewed: 2026-07-24. See [sources and verification notes](sources.md).
 
 ## Contents
 
@@ -15,6 +17,8 @@ If the [six-stage model](https://github.com/VictorOsondu/ai-adoption-model) is t
 - [What's in the toolkit](#whats-in-the-toolkit)
 - [Start here](#start-here)
 - [Where this came from](#where-this-came-from)
+- [Scope](#scope)
+- [Related resources](#related-resources)
 - [Free vs done-with-you](#free-vs-done-with-you)
 - [Part of a series](#part-of-a-series)
 
@@ -26,33 +30,63 @@ If the [six-stage model](https://github.com/VictorOsondu/ai-adoption-model) is t
 
 ## What's in the toolkit
 
-**Available now (lean launch):**
+**Available now:**
 
-- ✅ **[Readiness Assessment](assessment/readiness-assessment.md)** — a self-scored, twelve-statement check across direction, guardrails, capability, and follow-through. Tells you whether you're ready to roll out AI or building on sand.
+- **[Readiness Assessment](assessment/readiness-assessment.md)** — a self-scored, twelve-statement scan across direction, guardrails, capability, and follow-through.
+- **[Readiness Score Sheet](assessment/readiness-score-sheet.md)** — dimension scoring, evidence check, and next-review prompt.
+- **[30-Day Adoption Action Plan](templates/30-day-adoption-action-plan.md)** — turn the weakest dimension into a short action cycle.
+- **[AI Use Policy Check](templates/ai-use-policy-check.md)** — test whether staff can actually follow the policy.
+- **[Adoption Review Log](templates/adoption-review-log.md)** — monthly or post-pilot review.
+- **[Blame-Free AI Incident Log](templates/blame-free-ai-incident-log.md)** — learning-focused incident and near-miss capture.
+- **[Pre-Rollout Staff Survey](surveys/pre-rollout-staff-survey.md)** — baseline confidence, clarity, and concern check.
+- **[Post-Rollout Staff Survey](surveys/post-rollout-staff-survey.md)** — follow-up survey after a pilot or training phase.
+- **[Champion Cascade Plan](scaling/champion-cascade-plan.md)** — scale support through trusted peers.
+- **[AI Community of Practice Starter](scaling/community-of-practice-starter.md)** — turn peer questions and examples into shared organisational knowledge.
+- **[AI Programme Owner Charter](templates/ai-programme-owner-charter.md)** — define the mandate, capacity, boundaries, and working relationships for the person coordinating adoption.
+- **[AI Pilot Brief](templates/ai-pilot-brief.md)** — test one workflow against agreed value, risk, and stop criteria.
+- **[AI Onboarding Checklist](templates/ai-onboarding-checklist.md)** — bring new joiners to the same tool, data, review, and support standard.
+- **[Approved AI Use-Case Library](templates/approved-use-case-library.md)** — document tested workflows with evidence and clear limits.
+- **[AI Adoption Measurement Framework](measurement/adoption-measurement-framework.md)** — measure reach, integration, outcomes, risk, and wellbeing without prompt counting.
 
-**On the roadmap (filling in over the coming weeks):**
+**Later additions may include:**
 
-- ⏳ **Surveys** — short pre- and post-rollout staff surveys, and a team-sentiment check.
-- ⏳ **Monitoring** — a lightweight adoption-monitoring pack and a blame-free incident-logging template.
-- ⏳ **Scaling** — a champion-cascade model for taking adoption from a pilot to a whole organisation.
-
-Roadmap items are listed here honestly rather than shipped as empty folders. Watch the [changelog](CHANGELOG.md) or the repo for releases.
+- role-specific variants
+- facilitator notes
+- spreadsheet versions
+- translated editions
 
 ## Start here
 
-Run the **[Readiness Assessment](assessment/readiness-assessment.md)** first. It takes five minutes and tells you which dimension to work on next — which is usually not the one you expected.
+Run the **[Readiness Assessment](assessment/readiness-assessment.md)** first. It takes five minutes and helps surface which dimension to work on next.
 
 Then, to place individuals rather than the organisation, use the [stage locator](https://github.com/VictorOsondu/ai-adoption-model/blob/main/framework/stage-locator.md) in the model repo.
 
 ## Where this came from
 
-These instruments are generalised from real programme-building — the AI literacy compliance pack built for small businesses, and a multi-session AI programme designed for a national ministry team. The compliance-heavy originals stay in the paid pack; what's here is the reusable core, stripped of the audit-trail machinery.
+These tools are generalised from real programme-building — the AI literacy compliance pack built for small businesses, and a multi-session AI programme designed for a national ministry team. The compliance-heavy originals stay in the paid pack; what's here is the reusable core, stripped of the audit-trail machinery.
+
+The toolkit is practitioner-built. It is useful for reflection and programme support, not as an independent audit or certification. Evidence boundaries are listed in [sources.md](sources.md).
+
+## Scope
+
+This repository provides practical adoption aids. It does not provide legal, HR, procurement, data-protection, safeguarding, security, regulatory, or professional advice.
+
+The templates can support AI literacy documentation and governance preparation when adapted to your context, but they do not by themselves satisfy any law, regulation, contract, standard, or certification requirement.
+
+## Related resources
+
+- [AI Adoption Model](https://github.com/VictorOsondu/ai-adoption-model)
+- [AI Adoption Playbooks](https://github.com/VictorOsondu/ai-adoption-playbooks)
+- [AI Adoption for Leaders](https://github.com/VictorOsondu/ai-adoption-leaders)
+- [AI Governance Kit](https://github.com/VictorOsondu/ai-governance-kit)
+- [AI-Era Data & Privacy Playbook](https://github.com/VictorOsondu/ai-data-privacy-playbook)
+- [AI Incident & Failure Library](https://github.com/VictorOsondu/ai-incident-library)
 
 ## Free vs done-with-you
 
 Everything in this toolkit is free to use and adapt under CC BY 4.0.
 
-The full compliance layer — certification, the audit trail that satisfies EU AI Act Article 4, and done-with-you rollout — is the paid work [AI Tutorium](https://aitutorium.com) does. The instruments are free. The regulated, certified, done-with-you version is the service.
+The full done-with-you layer — including tailored rollout design, AI literacy documentation, audit-trail support, and context-specific review — is paid work [AI Tutorium](https://aitutorium.com) does. The templates are free. The adapted, reviewed, done-with-you version is the service.
 
 ## Part of a series
 
