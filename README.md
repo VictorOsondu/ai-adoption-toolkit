@@ -21,6 +21,7 @@ Last reviewed: 2026-07-24. See [sources and verification notes](sources.md).
 - [Related resources](#related-resources)
 - [Free vs done-with-you](#free-vs-done-with-you)
 - [Part of a series](#part-of-a-series)
+- [Attribution & reuse](#attribution--reuse)
 
 ## Who this is for
 
@@ -91,6 +92,16 @@ The full done-with-you layer — including tailored rollout design, AI literacy 
 ## Part of a series
 
 This is the shared engine for the **AI Adoption Playbooks** series. The index lives at [ai-adoption-playbooks](https://github.com/VictorOsondu/ai-adoption-playbooks).
+
+## Attribution & reuse
+
+This toolkit is built around **The Six Stages of AI Adoption**, Victor Osondu's identity-based adoption model. The canonical, maintained source is the [ai-adoption-model](https://github.com/VictorOsondu/ai-adoption-model) repo; this repo links to it rather than copying it.
+
+Everything here is licensed under **CC BY 4.0**. You're free to share it, adapt it, and use it commercially. The one condition is that you credit the source. If you reuse or build on this material, keep a line like:
+
+> Based on The Six Stages of AI Adoption by Victor Osondu / AI Tutorium — https://aitutorium.com
+
+To cite the framework formally (including the archived DOI), see [How to cite](https://github.com/VictorOsondu/ai-adoption-model#how-to-cite).
 
 ---
 
