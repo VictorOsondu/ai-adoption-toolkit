@@ -99,7 +99,7 @@ This toolkit is built around **The Six Stages of AI Adoption**, Victor Osondu's 
 
 Everything here is licensed under **CC BY 4.0**. You're free to share it, adapt it, and use it commercially. The one condition is that you credit the source. If you reuse or build on this material, keep a line like:
 
-> Based on The Six Stages of AI Adoption by Victor Osondu / AI Tutorium — https://aitutorium.com
+> Based on The Six Stages of AI Adoption by Victor Osondu / AI Tutorium — <https://aitutorium.com>
 
 To cite the framework formally (including the archived DOI), see [How to cite](https://github.com/VictorOsondu/ai-adoption-model#how-to-cite).
 
